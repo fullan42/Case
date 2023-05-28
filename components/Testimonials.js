@@ -12,7 +12,7 @@ const Testimonials = () => {
 
       <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-16 mb-6 relative z-[1]">
         <h1 className={`${styles.heading2} flex justify-center`}>
-          What people are <br className="sm:block hidden" />
+          lorem ipmsum dolor sit amet, consectetur adipiscing elit.  <br className="sm:block hidden" />
           saying about us
         </h1>
 
